@@ -1,6 +1,6 @@
 This is official repo of the paper "Large Scale Abstractive Multi-Review Summarization (LSARS) via Aspect Alignment"
 
-The data can be downloaded from [google drive](https://drive.google.com/drive/folders/1EM2pJfwvIZVrzl4rXlFeQeueqwKjy7Sz?usp=sharing). We do not release the test set but a public leaderboard will be coming soon.
+The data can be downloaded from [google drive](https://drive.google.com/drive/folders/1EM2pJfwvIZVrzl4rXlFeQeueqwKjy7Sz?usp=sharing). 
 
 
 Citation:
