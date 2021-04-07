@@ -1,4 +1,4 @@
-This is official repo of the paper "Large Scale Abstractive Multi-Review Summarization (LSARS) via Aspect Alignment"
+This is official repo of the paper "Large Scale Abstractive Multi-Review Summarization (LSARS) via Aspect Alignment" [[pdf]](https://dl.acm.org/doi/abs/10.1145/3397271.3401439)
 
 The data can be downloaded from [google drive](https://drive.google.com/drive/folders/1EM2pJfwvIZVrzl4rXlFeQeueqwKjy7Sz?usp=sharing). 
 
